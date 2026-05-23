@@ -1,4 +1,4 @@
-# Sistema de Reservas de Hotel 🏨
+# Sistema de Reservas de Hotel
 
 Backend PHP + PostgreSQL com boas práticas de segurança, transações e arquitetura em camadas.
 
