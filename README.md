@@ -122,10 +122,9 @@ hotel-reservas/
 │   ├── middleware/   # JWT
 │   └── models/       # Lógica de negócio + SQL
 ├── tests/            # PHPUnit
-├── .env.example
+├── Dockerfile
 ├── composer.json
-├── docker-compose.yml
-└── Dockerfile
+└── docker-compose.yml
 ```
 
 ---
